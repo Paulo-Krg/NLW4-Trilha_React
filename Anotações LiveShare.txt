@@ -1,0 +1,8 @@
+Baixar extensão LiveShare;
+Iniciar LiveShare;
+
+Invitation link copied to clipboard! Send it to anyone you trust or click "More info" to learn about secure sharing.
+https://prod.liveshare.vsengsaas.visualstudio.com/join?...
+
+Enviar link por email;
+Colaborador abre o link;

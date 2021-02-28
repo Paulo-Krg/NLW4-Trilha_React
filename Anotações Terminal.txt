@@ -11,7 +11,7 @@ Criar um template utilizando configurações padrão para Typescript:
 create-react-app é uma ferramenta criada pelo time do Facebook para facilitar a inicialização e configuração inicial de projetos React:
     Como o browser não consegue entender tudo do JS mais moderno, então esses frameworks rodam um processo de transpilação de codigo, para que o browser consiga compreender essas novas funcionalidades. Para isso geralmente são utilizadas as ferramentas Webpack e Babel.
     A configuração dessas ferramentas é feita de forma automatica utilizando o create-react-app.
-______________________________________________________________________________________________________
+
 Rodar a aplicação React no Localhost a partir do package.json:
     npm start
 ______________________________________________________________________________________________________
