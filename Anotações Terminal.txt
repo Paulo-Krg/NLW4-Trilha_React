@@ -1,6 +1,7 @@
 To run this project locally install the "node_modules" folder in your repository using the command line "npm install" or "npm i".
 Then run the script "npm run dev" or "yarn dev".
-______________________________________________________________________________________________________
+teste
+_____________________________________________________________________________________________________
 
 Criar um template de uma aplicação em React:
     npx create-react-app moveit
