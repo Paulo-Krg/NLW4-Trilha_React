@@ -18,7 +18,7 @@ type User = {
 
 // Passar o tipo do parâmetro
 function showUserInfoTS(user: User){
-    return `Welcome, ${user.name} - ${user.age}. City: ${user.nao_sei} - ${user.address.city}`;
+    return `Welcome, ${user.name} - ${user.age}. City: ${user.nao_sei} - ${user.address.city} - ${user.address.}`;
 }
 // "nao_sei" agora mostra um erro
 // o programa agora sugere quais os atributos que existem naquele parâmetro

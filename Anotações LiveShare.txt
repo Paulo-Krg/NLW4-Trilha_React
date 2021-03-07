@@ -5,4 +5,4 @@ Invitation link copied to clipboard! Send it to anyone you trust or click "More 
 https://prod.liveshare.vsengsaas.visualstudio.com/join?...
 
 Enviar link por email;
-Colaborador abre o link;
+Colaborador abrir o link;

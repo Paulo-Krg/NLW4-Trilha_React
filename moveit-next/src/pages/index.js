@@ -10,6 +10,7 @@ import { Button } from '../../../moveit-next/src/components/Button';
 //import { ButtonTsx } from './components/Button.tsx';
 
 import styles from '../styles/pages/Home.module.css';
+import { CountdownProvider } from '../contexts/CountdownContext.tsx';
 
 export default function Home() {
   return (
@@ -20,17 +21,18 @@ export default function Home() {
 
       <ExperienceBar />
 
-      <section>
-        <div>
-          <Profile />
-          <CompletedChallenges />
-          <Countdown />
-        </div>
-        <div>
-          <ChallengeBox />
-        </div>
-      </section>
-      <h1>Hello NLW</h1>
+      <CountdownProvider>
+        <section>
+          <div>
+            <Profile />
+            <CompletedChallenges />
+            <Countdown />
+          </div>
+          <div>
+            <ChallengeBox />
+          </div>
+        </section>
+      </CountdownProvider>
 
       <Button color="red">
         Botão 1
