@@ -27,3 +27,7 @@ Adicionando Typescript e seus tipos:
 Rodar a aplicação Next.js:
     yarn dev
     npm run dev
+
+Adicionando biblioteca de gerenciamento de cookies para salvar dados no armazenamento local:
+    npm add js-cookie
+    npm add @types/js-cookie -D
